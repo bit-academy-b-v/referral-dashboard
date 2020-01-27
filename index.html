@@ -70,9 +70,19 @@
         </div>
     </div>
     <div class="goodies">
-        <img class="shirts" src="images/shirts.png" />
+        <img class="shirts" src="images/shirts.png"/>
     </div>
 </main>
+
+<script>
+    setInterval(function () {
+        reload_page();
+    }, 60*60000);
+
+    function reload_page() {
+        window.location.reload(true);
+    }
+</script>
 
 </body>
 </html>
