@@ -103,6 +103,10 @@ h2 {
     background: #24caa1;
 }
 
+.signup .percentage {
+    background: #24caa1;
+}
+
 .tryout .percentage {
     background: #eb4b4b;
 }
@@ -128,7 +132,7 @@ h2 {
 
 .signup .fill {
     background: #24caa1;
-    width: 0%;
+    width: 4%;
 }
 
 .tryout .fill {
